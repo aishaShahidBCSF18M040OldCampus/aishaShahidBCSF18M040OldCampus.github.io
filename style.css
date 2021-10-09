@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&family=Roboto:ital,wght@1,700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+.head1 {
+    color: white;
+    background: transparent;
+    text-align: center;
+    margin-top: 5px;
+    padding-left: 15px;
+    font-size: 50px;
+    background-color: #5d2c99;
+    padding: 6px 0px 2px 0px;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.g {
+    background: transparent;
+    background-color: #8566aa;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px;
+    padding: 6px 0px 2px 0px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    font-family: "Josefin Sans", "Arial Narrow", Arial, sans-serif;
+    padding-left: 15px;
+}
+
+.h {
+    background: transparent;
+    background-color: #646068;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px;
+    padding: 6px 0px 2px 0px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    font-family: "Josefin Sans", "Arial Narrow", Arial, sans-serif;
+    padding-left: 15px;
+}
+
+.head {
+    background-color: #280c4b;
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+    padding: 6px 0px 2px 15px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    font-family: "Josefin Sans", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    text-indent: justify;
+    padding-left: 20px;
+}
+
+ul li {
+    padding-left: 0px;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 15px;
+    font-weight: 500;
+    min-height: 40px;
+    align-items: center;
+    list-style-type: armenian;
+    display: flex;
+    text-transform: capitalize;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    image-shadow: #8566aa;
+    margin-left: auto;
+    margin-right: auto;
+}
