@@ -89,3 +89,10 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.foot {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bold
+}
