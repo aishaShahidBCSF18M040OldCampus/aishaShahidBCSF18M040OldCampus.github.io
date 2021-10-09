@@ -79,3 +79,13 @@ ul li {
     text-transform: capitalize;
     font-family: "Gill Sans Extrabold", sans-serif;
 }
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    image-shadow: #8566aa;
+    margin-left: auto;
+    margin-right: auto;
+}
